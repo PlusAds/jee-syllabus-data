@@ -1,0 +1,34 @@
+[
+  {
+    "unit": "SOME BASIC CONCEPTS IN CHEMISTRY",
+    "topics": [
+      "Matter and its nature",
+      "Dalton's atomic theory",
+      "Laws of chemical combination",
+      "Atomic and molecular masses",
+      "Mole concept",
+      "Chemical equations and stoichiometry"
+    ]
+  },
+  {
+    "unit": "ATOMIC STRUCTURE",
+    "topics": [
+      "Nature of electromagnetic radiation",
+      "Photoelectric effect",
+      "Bohr model of a hydrogen atom",
+      "Dual nature of matter",
+      "Quantum mechanics",
+      "Atomic orbitals",
+      "Quantum numbers",
+      "Electron spin",
+      "Rules for filling electrons",
+      "Electronic configuration"
+    ]
+  },
+  {
+    "unit": "CHEMICAL BONDING AND MOLECULAR STRUCTURE",
+    "topics": [
+      "Kossel-Lewis approach",
+      "Ionic bonding",
+      "Covalent bonding",
+      "Valence bond
