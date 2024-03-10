@@ -1,6 +1,7 @@
 [
   {
     "unit": "SOME BASIC CONCEPTS IN CHEMISTRY",
+    "weight": "Some Weight%",
     "topics": [
       "Matter and its nature",
       "Dalton's atomic theory",
@@ -12,6 +13,7 @@
   },
   {
     "unit": "ATOMIC STRUCTURE",
+    "weight": "Some Weight%",
     "topics": [
       "Nature of electromagnetic radiation",
       "Photoelectric effect",
@@ -27,8 +29,213 @@
   },
   {
     "unit": "CHEMICAL BONDING AND MOLECULAR STRUCTURE",
+    "weight": "Some Weight%",
     "topics": [
       "Kossel-Lewis approach",
       "Ionic bonding",
       "Covalent bonding",
-      "Valence bond
+      "Valence bond theory",
+      "Resonance",
+      "Molecular Orbital Theory",
+      "Hydrogen bonding"
+    ]
+  },
+  {
+    "unit": "CHEMICAL THERMODYNAMICS",
+    "weight": "Some Weight%",
+    "topics": [
+      "Fundamentals of thermodynamics",
+      "First law of thermodynamics",
+      "Second law of thermodynamics",
+      "Spontaneity of processes",
+      "Equilibrium constant"
+    ]
+  },
+  {
+    "unit": "SOLUTIONS",
+    "weight": "Some Weight%",
+    "topics": [
+      "Concentration of solution",
+      "Vapour pressure of solutions",
+      "Raoult's Law",
+      "Colligative properties",
+      "Molecular mass determination",
+      "Abnormal molar mass"
+    ]
+  },
+  {
+    "unit": "EQUILIBRIUM",
+    "weight": "Some Weight%",
+    "topics": [
+      "Dynamic equilibrium",
+      "Equilibria involving physical processes",
+      "Equilibria involving chemical processes",
+      "Ionic equilibrium",
+      "Le Chatelier’s principle"
+    ]
+  },
+  {
+    "unit": "REDOX REACTIONS AND ELECTROCHEMISTRY",
+    "weight": "Some Weight%",
+    "topics": [
+      "Electronic concepts of oxidation and reduction",
+      "Electrolytic and metallic conduction",
+      "Electrochemical cells",
+      "Nernst equation",
+      "Fuel cells"
+    ]
+  },
+  {
+    "unit": "CHEMICAL KINETICS",
+    "weight": "Some Weight%",
+    "topics": [
+      "Rate of a chemical reaction",
+      "Factors affecting the rate of reactions",
+      "Elementary and complex reactions",
+      "Rate law",
+      "Arrhenius theory",
+      "Collision theory"
+    ]
+  },
+  {
+    "unit": "CLASSIFICATION OF ELEMENTS AND PERIODICITY IN PROPERTIES",
+    "weight": "Some Weight%",
+    "topics": [
+      "Modem periodic law",
+      "Periodic trends in properties",
+      "Atomic and ionic radii",
+      "Ionization enthalpy",
+      "Valence, oxidation states, and chemical reactivity"
+    ]
+  },
+  {
+    "unit": "P- BLOCK ELEMENTS",
+    "weight": "Some Weight%",
+    "topics": [
+      "Electronic configuration",
+      "General trends in physical and chemical properties",
+      "Unique behavior of the first element in each group"
+    ]
+  },
+  {
+    "unit": "D - AND F- BLOCK ELEMENTS",
+    "weight": "Some Weight%",
+    "topics": [
+      "Transition Elements",
+      "Electronic configuration",
+      "Occurrence and characteristics",
+      "Inner Transition Elements",
+      "Lanthanoids",
+      "Actinoids"
+    ]
+  },
+  {
+    "unit": "CO-ORDINATION COMPOUNDS",
+    "weight": "Some Weight%",
+    "topics": [
+      "Introduction to coordination compounds",
+      "Werner's theory",
+      "Ligands, coordination number, denticity",
+      "Nomenclature",
+      "Isomerism",
+      "Bonding",
+      "Crystal field theory",
+      "Importance of co-ordination compounds"
+    ]
+  },
+  {
+    "unit": "PURIFICATION AND CHARACTERISATION OF ORGANIC COMPOUNDS",
+    "weight": "Some Weight%",
+    "topics": [
+      "Purification methods",
+      "Qualitative analysis",
+      "Quantitative analysis",
+      "Empirical and molecular formulae",
+      "Titrimetric exercises",
+      "Qualitative salt analysis",
+      "Chemical principles",
+      "Experiments"
+    ]
+  },
+  {
+    "unit": "SOME BASIC PRINCIPLES OF ORGANIC CHEMISTRY",
+    "weight": "Some Weight%",
+    "topics": [
+      "Tetravalency of carbon",
+      "Shapes of simple molecules",
+      "Classification of organic compounds",
+      "Covalent bond fission",
+      "Electronic displacement in a covalent bond",
+      "Common types of organic reactions"
+    ]
+  },
+  {
+    "unit": "HYDROCARBONS",
+    "weight": "Some Weight%",
+    "topics": [
+      "Classification",
+      "Isomerism",
+      "IUPAC nomenclature",
+      "Alkanes",
+      "Alkenes",
+      "Alkynes",
+      "Aromatic hydrocarbons"
+    ]
+  },
+  {
+    "unit": "ORGANIC COMPOUNDS CONTAINING HALOGENS",
+    "weight": "Some Weight%",
+    "topics": [
+      "General methods of preparation",
+      "Properties and reactions",
+      "Nature of C-X bond",
+      "Uses",
+      "Environmental effects"
+    ]
+  },
+  {
+    "unit": "ORGANIC COMPOUNDS CONTAINING OXYGEN",
+    "weight": "Some Weight%",
+    "topics": [
+      "General methods of preparation",
+      "Properties, reactions, and uses",
+      "Alcohols, Phenols, and Ethers",
+      "Aldehydes and Ketones",
+      "Carboxylic Acids"
+    ]
+  },
+  {
+    "unit": "ORGANIC COMPOUNDS CONTAINING NITROGEN",
+    "weight": "Some Weight%",
+    "topics": [
+      "General methods of preparation",
+      "Properties, reactions, and uses",
+      "Amines",
+      "Diazonium Salts"
+    ]
+  },
+  {
+    "unit": "BIOMOLECULES",
+    "weight": "Some Weight%",
+    "topics": [
+      "General introduction and importance",
+      "Carbohydrates",
+      "Proteins",
+      "Vitamins",
+      "Nucleic Acids",
+      "Hormones"
+    ]
+  },
+  {
+    "unit": "PRINCIPLES RELATED TO PRACTICAL CHEMISTRY",
+    "weight": "Some Weight%",
+    "topics": [
+      "Detection of extra elements",
+      "Functional groups detection",
+      "Preparation of inorganic and organic compounds",
+      "Titrimetric exercises",
+      "Qualitative salt analysis",
+      "Experiments"
+    ]
+  }
+]
