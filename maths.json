@@ -80,7 +80,7 @@
   },
   {
     "unit": "INTEGRAL CALCULUS",
-    "weight": "Some Weight%",
+    "weight": "6.6%",
     "topics": [
       "Integral as an anti-derivative",
       "Fundamental integral involving algebraic, trigonometric, exponential, and logarithmic functions",
@@ -100,7 +100,7 @@
   },
   {
     "unit": "CO-ORDINATE GEOMETRY",
-    "weight": "Some Weight%",
+    "weight": "6.6%",
     "topics": [
       "Cartesian system of rectangular coordinates",
       "Distance formula",
@@ -125,7 +125,7 @@
   },
   {
     "unit": "VECTOR ALGEBRA",
-    "weight": "Some Weight%",
+    "weight": "3.3%",
     "topics": [
       "Vectors and scalars",
       "Addition of vectors",
@@ -135,7 +135,7 @@
   },
   {
     "unit": "STATISTICS AND PROBABILITY",
-    "weight": "Some Weight%",
+    "weight": "6.6%",
     "topics": [
       "Measures of discretion",
       "Mean, median, mode of grouped and ungrouped data",
@@ -148,7 +148,7 @@
   },
   {
     "unit": "TRIGONOMETRY",
-    "weight": "Some Weight%",
+    "weight": "3.3%",
     "topics": [
       "Trigonometrical identities and trigonometrical functions",
       "Inverse trigonometrical functions and their properties"
