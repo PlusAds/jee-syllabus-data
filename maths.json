@@ -1,1 +1,157 @@
-[{"unit":"SETS, RELATIONS, AND FUNCTIONS","weight":"Some Weight%","topics":["Sets and their representation","Union, intersection, and complement of sets and their algebraic properties","Power set","Relation, Type of relations, equivalence relations","Functions; one-one, into and onto functions","Composition of functions"]},{"unit":"COMPLEX NUMBERS AND QUADRATIC EQUATIONS","weight":"Some Weight%","topics":["Complex numbers as ordered pairs of reals","Representation of complex numbers in the form a + ib","Argand diagram","Algebra of complex number","Modulus and argument (or amplitude) of a complex number","Quadratic equations in real and complex number system and their solutions","Relations between roots and co-efficient","Nature of roots","Formation of quadratic equations with given roots"]},{"unit":"MATRICES AND DETERMINANTS","weight":"Some Weight%","topics":["Matrices, algebra of matrices","Type of matrices","Determinants and matrices of order two and three","Evaluation of determinants","Area of triangles using determinants","Adjoint and evaluation of inverse of a square matrix using determinants","Test of consistency and solution of simultaneous linear equations in two or three variables using matrices"]},{"unit":"PERMUTATIONS AND COMBINATIONS","weight":"Some Weight%","topics":["Fundamental principle of counting","Permutation as an arrangement and combination as a selection","Meaning of P (n,r) and C (n,r)","Simple applications"]},{"unit":"BINOMIAL THEOREM AND ITS SIMPLE APPLICATIONS","weight":"Some Weight%","topics":["Binomial theorem for a positive integral index","General term and middle term","Simple applications"]},{"unit":"SEQUENCE AND SERIES","weight":"Some Weight%","topics":["Arithmetic and Geometric progressions","Insertion of arithmetic, geometric means between two given numbers","Relation between A.M and G.M"]},{"unit":"LIMIT, CONTINUITY, AND DIFFERENTIABILITY","weight":"Some Weight%","topics":["Real–valued functions","Algebra of functions","Limits, continuity, and differentiability","Differentiation of various functions","Applications of derivatives"]},{"unit":"INTEGRAL CALCULUS","weight":"Some Weight%","topics":["Integral as an anti-derivative","Fundamental integral involving algebraic, trigonometric, exponential, and logarithmic functions","Integration techniques","Definite integrals and their properties","Applications of definite integrals"]},{"unit":"DIFFERENTIAL EQUATIONS","weight":"Some Weight%","topics":["Ordinary differential equations","Solution of differential equation by separation of variables","Solution of a homogeneous and linear differential equation of the type dy/dx + p(x)y = q(x)"]},{"unit":"CO-ORDINATE GEOMETRY","weight":"Some Weight%","topics":["Cartesian system of rectangular coordinates","Distance formula","Sections formula","Locus and its equation","Slope of a line","Various forms of equations of a line","Circle, conic sections"]},{"unit":"THREE DIMENSIONAL GEOMETRY","weight":"Some Weight%","topics":["Coordinates of a point in space","Distance between two points","Section formula","Directions ratios and cosines","Angle between two intersecting lines","Equations of a line"]},{"unit":"VECTOR ALGEBRA","weight":"Some Weight%","topics":["Vectors and scalars","Addition of vectors","Components of a vector in two and three-dimensional space","Scalar and vector products"]},{"unit":"STATISTICS AND PROBABILITY","weight":"Some Weight%","topics":["Measures of discretion","Mean, median, mode of grouped and ungrouped data","Standard deviation, variance, and mean deviation","Probability of an event","Addition and multiplication theorems of probability","Baye's theorem","Probability distribution of a random variate"]},{"unit":"TRIGONOMETRY","weight":"Some Weight%","topics":["Trigonometrical identities and trigonometrical functions","Inverse trigonometrical functions and their properties"]}]
+[
+  {
+    "unit": "SETS, RELATIONS, AND FUNCTIONS",
+    "weight": "3.3%",
+    "topics": [
+      "Sets and their representation",
+      "Union, intersection, and complement of sets and their algebraic properties",
+      "Power set",
+      "Relation, Type of relations, equivalence relations",
+      "Functions; one-one, into and onto functions",
+      "Composition of functions"
+    ]
+  },
+  {
+    "unit": "COMPLEX NUMBERS AND QUADRATIC EQUATIONS",
+    "weight": "6.6%",
+    "topics": [
+      "Complex numbers as ordered pairs of reals",
+      "Representation of complex numbers in the form a + ib",
+      "Argand diagram",
+      "Algebra of complex number",
+      "Modulus and argument (or amplitude) of a complex number",
+      "Quadratic equations in real and complex number system and their solutions",
+      "Relations between roots and co-efficient",
+      "Nature of roots",
+      "Formation of quadratic equations with given roots"
+    ]
+  },
+  {
+    "unit": "MATRICES AND DETERMINANTS",
+    "weight": "6.6%",
+    "topics": [
+      "Matrices, algebra of matrices",
+      "Type of matrices",
+      "Determinants and matrices of order two and three",
+      "Evaluation of determinants",
+      "Area of triangles using determinants",
+      "Adjoint and evaluation of inverse of a square matrix using determinants",
+      "Test of consistency and solution of simultaneous linear equations in two or three variables using matrices"
+    ]
+  },
+  {
+    "unit": "PERMUTATIONS AND COMBINATIONS",
+    "weight": "3.3%",
+    "topics": [
+      "Fundamental principle of counting",
+      "Permutation as an arrangement and combination as a selection",
+      "Meaning of P (n,r) and C (n,r)",
+      "Simple applications"
+    ]
+  },
+  {
+    "unit": "BINOMIAL THEOREM AND ITS SIMPLE APPLICATIONS",
+    "weight": "3.3%",
+    "topics": [
+      "Binomial theorem for a positive integral index",
+      "General term and middle term",
+      "Simple applications"
+    ]
+  },
+  {
+    "unit": "SEQUENCE AND SERIES",
+    "weight": "6.6%",
+    "topics": [
+      "Arithmetic and Geometric progressions",
+      "Insertion of arithmetic, geometric means between two given numbers",
+      "Relation between A.M and G.M"
+    ]
+  },
+  {
+    "unit": "LIMIT, CONTINUITY, AND DIFFERENTIABILITY",
+    "weight": "6.6%",
+    "topics": [
+      "Real–valued functions",
+      "Algebra of functions",
+      "Limits, continuity, and differentiability",
+      "Differentiation of various functions",
+      "Applications of derivatives"
+    ]
+  },
+  {
+    "unit": "INTEGRAL CALCULUS",
+    "weight": "Some Weight%",
+    "topics": [
+      "Integral as an anti-derivative",
+      "Fundamental integral involving algebraic, trigonometric, exponential, and logarithmic functions",
+      "Integration techniques",
+      "Definite integrals and their properties",
+      "Applications of definite integrals"
+    ]
+  },
+  {
+    "unit": "DIFFERENTIAL EQUATIONS",
+    "weight": "3.3%",
+    "topics": [
+      "Ordinary differential equations",
+      "Solution of differential equation by separation of variables",
+      "Solution of a homogeneous and linear differential equation of the type dy/dx + p(x)y = q(x)"
+    ]
+  },
+  {
+    "unit": "CO-ORDINATE GEOMETRY",
+    "weight": "Some Weight%",
+    "topics": [
+      "Cartesian system of rectangular coordinates",
+      "Distance formula",
+      "Sections formula",
+      "Locus and its equation",
+      "Slope of a line",
+      "Various forms of equations of a line",
+      "Circle, conic sections"
+    ]
+  },
+  {
+    "unit": "THREE DIMENSIONAL GEOMETRY",
+    "weight": "6.6%",
+    "topics": [
+      "Coordinates of a point in space",
+      "Distance between two points",
+      "Section formula",
+      "Directions ratios and cosines",
+      "Angle between two intersecting lines",
+      "Equations of a line"
+    ]
+  },
+  {
+    "unit": "VECTOR ALGEBRA",
+    "weight": "Some Weight%",
+    "topics": [
+      "Vectors and scalars",
+      "Addition of vectors",
+      "Components of a vector in two and three-dimensional space",
+      "Scalar and vector products"
+    ]
+  },
+  {
+    "unit": "STATISTICS AND PROBABILITY",
+    "weight": "Some Weight%",
+    "topics": [
+      "Measures of discretion",
+      "Mean, median, mode of grouped and ungrouped data",
+      "Standard deviation, variance, and mean deviation",
+      "Probability of an event",
+      "Addition and multiplication theorems of probability",
+      "Baye's theorem",
+      "Probability distribution of a random variate"
+    ]
+  },
+  {
+    "unit": "TRIGONOMETRY",
+    "weight": "Some Weight%",
+    "topics": [
+      "Trigonometrical identities and trigonometrical functions",
+      "Inverse trigonometrical functions and their properties"
+    ]
+  }
+]
