@@ -1,1 +1,405 @@
-[{"unit":"PHYSICS AND MEASUREMENT","weight":"3.3%","topics":["Units of Measurements","System of Units","SI Units","Fundamental and Derived Units","Least Count","Significant Figures","Errors in Measurements","Dimensions of Physics Quantities","Dimensional Analysis","Applications of Dimensional Analysis"]},{"unit":"KINEMATICS","weight":"3.3%","topics":["Frame of Reference","Motion in a Straight Line","Position-Time Graph","Speed and Velocity","Uniform and Non-uniform Motion","Average Speed and Instantaneous Velocity","Uniformly Accelerated Motion","Velocity-Time Graph","Position-Time Graph for Uniformly Accelerated Motion","Scalars and Vectors","Vector Addition and Subtraction","Scalar and Vector Products","Unit Vector","Resolution of a Vector","Relative Velocity","Motion in a Plane","Projectile Motion","Uniform Circular Motion"]},{"unit":"LAWS OF MOTION","weight":"3%","topics":["Force and Inertia","Newton’s First Law of Motion","Momentum","Newton’s Second Law of Motion","Impulses","Newton’s Third Law of Motion","Law of Conservation of Linear Momentum and its Applications","Equilibrium of Concurrent Forces","Static and Kinetic Friction","Laws of Friction","Rolling Friction","Dynamics of Uniform Circular Motion","Centripetal Force and its Applications","Vehicle on a Level Circular Road","Vehicle on a Banked Road"]},{"unit":"WORK, ENERGY, AND POWER","weight":"3%","topics":["Work done by a constant force and a variable force","Kinetic and Potential Energies","Work-Energy Theorem","Power","The potential energy of spring","Conservation of Mechanical Energy","Conservative and Non-conservative Forces","Motion in a Vertical Circle","Elastic and Inelastic Collisions in One and Two Dimensions"]},{"unit":"ROTATIONAL MOTION","weight":"3%","topics":["Centre of the mass of a two-particle system","Centre of the mass of a rigid body","Basic concepts of rotational motion","Moment of a force","Torque","Angular momentum","Conservation of angular momentum and its applications","Moment of inertia","Radius of gyration","Values of moments of inertia for simple geometrical objects","Parallel and perpendicular axes theorems, and their applications","Equilibrium of rigid bodies","Rigid body rotation and equations of rotational motion","Comparison of linear and rotational motions"]},{"unit":"GRAVITATION","weight":"3%","topics":["The universal law of gravitation","Acceleration due to gravity and its variation with altitude and depth","Kepler’s law of planetary motion","Gravitational potential energy","Gravitational potential","Escape velocity","Motion of a satellite","Orbital velocity","Time period and energy of satellite"]},{"unit":"PROPERTIES OF SOLIDS AND LIQUIDS","weight":"3%","topics":["Elastic behaviour","Stress-strain relationship","Hooke's Law","Young's modulus","Bulk modulus","Modulus of rigidity","Pressure due to a fluid column","Pascal's law and its applications","Effect of gravity on fluid pressure","Viscosity","Stokes' law","Terminal velocity","Streamline and turbulent flow","Critical velocity","Bernoulli's principle and its applications","Surface energy and surface tension","Angle of contact","Excess of pressure across a curved surface","Application of surface tension - drops, bubbles, and capillary rise","Heat","Temperature","Thermal expansion","Specific heat capacity","Calorimetry","Change of state","Latent heat","Heat transfer - conduction, convection, and radiation"]},{"unit":"THERMODYNAMICS","weight":"3%","topics":["Thermal equilibrium","Zeroth law of thermodynamics","Concept of temperature","Heat, work, and internal energy","First law of thermodynamics","Isothermal and adiabatic processes","Second law of thermodynamics","Reversible and irreversible processes"]},{"unit":"KINETIC THEORY OF GASES","weight":"3%","topics":["Equation of state of a perfect gas","Work done on compressing a gas","Kinetic theory of gases - assumptions","Concept of pressure","Kinetic interpretation of temperature","RMS speed of gas molecules","Degrees of freedom","Law of equipartition of energy and applications to specific heat capacities of gases","Mean free path","Avogadro's number"]},{"unit":"OSCILLATIONS AND WAVES","weight":"3%","topics":["Oscillations and periodic motion – time period, frequency, displacement as a function of time","Periodic functions","Simple harmonic motion (S.H.M.) and its equation","Phase","Oscillations of a spring - restoring force and force constant","Energy in S.H.M. - Kinetic and potential energies","Simple pendulum - derivation of expression for its time period","Wave motion","Longitudinal and transverse waves","Speed of the traveling wave","Displacement relation for a progressive wave","Principle of superposition of waves","Reflection of waves","Standing waves in strings and organ pipes","Fundamental mode and harmonics","Beats"]},{"unit":"ELECTROSTATICS","weight":"3%","topics":["Electric charges","Conservation of charge","Coulomb's law forces between two point charges","Forces between multiple charges","Superposition principle and continuous charge distribution","Electric field","Electric field due to a point charge","Electric field lines","Electric dipole","Electric field due to a dipole","Torque on a dipole in a uniform electric field","Electric flux","Gauss's law and its applications","Field due to infinitely long uniformly charged straight wire","Uniformly charged infinite plane sheet","Uniformly charged thin spherical shell","Electric potential","Calculation for a point charge, electric dipole, and system of charges","Potential difference","Equipotential surfaces","Electrical potential energy of a system of two point charges and of electric dipole in an electrostatic field","Conductors and insulators","Dielectrics and electric polarization","Capacitors and capacitances","Combination of capacitors in series and parallel","Capacitance of a parallel plate capacitor with and without dielectric medium between the plates","Energy stored in a capacitor"]},{"unit":"CURRENT ELECTRICITY","weight":"3%","topics":["Electric current","Drift velocity","Mobility, and their relation with electric current","Ohm's law","Electrical resistance","V-I characteristics of Ohmic and non-ohmic conductors","Electrical energy and power","Electrical resistivity and conductivity","Series and parallel combinations of resistors","Temperature dependence of resistance","Internal resistance, potential difference, and emf of a cell","Combination of cells in series and parallel","Kirchhoff’s laws and their applications","Wheatstone bridge","Metre Bridge"]},{"unit":"MAGNETIC EFFECTS OF CURRENT AND MAGNETISM","weight":"3%","topics":["Biot-Savart law and its application to the current carrying circular loop","Ampere's law and its applications to infinitely long current carrying straight wire and solenoid","Force on a moving charge in uniform magnetic and electric fields","Force on a current-carrying conductor in a uniform magnetic field","Force between two parallel currents carrying conductors - definition of ampere","Torque experienced by a current loop in a uniform magnetic field","Moving coil galvanometer, its sensitivity, and conversion to ammeter and voltmeter","Current loop as a magnetic dipole and its magnetic dipole moment","Bar magnet as an equivalent solenoid, magnetic field lines","Magnetic field due to a magnetic dipole (bar magnet) along its axis and perpendicular to its axis","Torque on a magnetic dipole in a uniform magnetic field","Para-, dia-, and ferromagnetic substances with examples","Effect of temperature on magnetic properties"]},{"unit":"ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENTS","weight":"3%","topics":["Electromagnetic induction: Faraday's law","Induced emf and current: Lenz’s Law, Eddy currents","Self and mutual inductance","Alternating currents","Peak and RMS value of alternating current/voltage","Reactance and impedance","LCR series circuit","Resonance","Power in AC circuits","Wattless current","AC generator and transformer"]},{"unit":"ELECTROMAGNETIC WAVES","weight":"3%","topics":["Displacement current","Electromagnetic waves and their characteristics","Transverse nature of electromagnetic waves","Electromagnetic spectrum (radio waves, microwaves, infrared, visible, ultraviolet, X-rays, Gamma rays)","Applications of electromagnetic waves"]},{"unit":"OPTICS","weight":"3%","topics":["Reflection of light","Spherical mirrors","Mirror formula","Refraction of light at plane and spherical surfaces","Thin lens formula","Lens maker formula","Total internal reflection and its applications","Magnification","Power of a lens","Combination of thin lenses in contact","Refraction of light through a prism","Microscope and Astronomical Telescope (reflecting and refracting) and their magnifying powers","Wave optics: wavefront and Huygens' principle","Laws of reflection and refraction using Huygens principle","Interference","Young's double-slit experiment","Expression for fringe width","Coherent sources","Sustained interference of light","Diffraction due to a single slit","Width of central maximum","Polarization","Plane-polarized light","Brewster's law","Uses of plane-polarized light","Polaroid"]},{"unit":"DUAL NATURE OF MATTER AND RADIATION","weight":"3%","topics":["Dual nature of radiation","Photoelectric effect","Hertz and Lenard's observations","Einstein's photoelectric equation","Particle nature of light","Matter waves","Wave nature of particle","de Broglie relation"]},{"unit":"ATOMS AND NUCLEI","weight":"3%","topics":["Alpha-particle scattering experiment","Rutherford's model of atom","Bohr model","Energy levels","Hydrogen spectrum","Composition and size of nucleus","Atomic masses","Mass-energy relation","Mass defect","Binding energy per nucleon and its variation with mass number","Nuclear fission and fusion"]},{"unit":"ELECTRONIC DEVICES","weight":"3%","topics":["Semiconductors","Semiconductor diode","I-V characteristics in forward and reverse bias","Diode as a rectifier","I-V characteristics of LED","The photodiode","Solar cell","Zener diode","Zener diode as a voltage regulator","Logic gates (OR, AND, NOT, NAND, and NOR)"]},{"unit":"EXPERIMENTAL SKILLS","weight":"3%","topics":["Vernier calipers - its use to measure the internal and external diameter and depth of a vessel.","Screw gauge - its use to determine the thickness/diameter of thin sheet/wire.","Simple Pendulum - dissipation of energy by plotting a graph between the square of amplitude and time.","Metre Scale - the mass of a given object by the principle of moments.","Young's modulus of elasticity of the material of a metallic wire.","Surface tension of water by capillary rise and effect of detergents.","Coefficient of Viscosity of a given viscous liquid by measuring the terminal velocity of a given spherical body.","Speed of sound in air at room temperature using a resonance tube.","Specific heat capacity of a given (i) solid and (ii) liquid by method of mixtures.","The resistivity of the material of a given wire using a metre bridge.","The resistance of a given wire using Ohm's law.","Resistance and figure of merit of a galvanometer by half deflection method.","Focal length of:","  (i) Convex mirror","  (ii) Concave mirror, and","  (iii) Convex lens, using the parallax method.","Plot of the angle of deviation vs angle of incidence for a triangular prism.","Refractive index of a glass slab using a travelling microscope.","Characteristic curves of a p-n junction diode in forward and reverse bias.","Characteristic curves of a Zener diode and finding reverse breakdown voltage.","Identification of Diode, LED, Resistor, A capacitor from a mixed collection of such items."]}]
+[
+  {
+    "unit": "PHYSICS AND MEASUREMENT",
+    "weight": "3.3%",
+    "topics": [
+      "Units of Measurements",
+      "System of Units",
+      "SI Units",
+      "Fundamental and Derived Units",
+      "Least Count",
+      "Significant Figures",
+      "Errors in Measurements",
+      "Dimensions of Physics Quantities",
+      "Dimensional Analysis",
+      "Applications of Dimensional Analysis"
+    ]
+  },
+  {
+    "unit": "KINEMATICS",
+    "weight": "9.9%",
+    "topics": [
+      "Frame of Reference",
+      "Motion in a Straight Line",
+      "Position-Time Graph",
+      "Speed and Velocity",
+      "Uniform and Non-uniform Motion",
+      "Average Speed and Instantaneous Velocity",
+      "Uniformly Accelerated Motion",
+      "Velocity-Time Graph",
+      "Position-Time Graph for Uniformly Accelerated Motion",
+      "Scalars and Vectors",
+      "Vector Addition and Subtraction",
+      "Scalar and Vector Products",
+      "Unit Vector",
+      "Resolution of a Vector",
+      "Relative Velocity",
+      "Motion in a Plane",
+      "Projectile Motion",
+      "Uniform Circular Motion"
+    ]
+  },
+  {
+    "unit": "LAWS OF MOTION",
+    "weight": "6.6%",
+    "topics": [
+      "Force and Inertia",
+      "Newton’s First Law of Motion",
+      "Momentum",
+      "Newton’s Second Law of Motion",
+      "Impulses",
+      "Newton’s Third Law of Motion",
+      "Law of Conservation of Linear Momentum and its Applications",
+      "Equilibrium of Concurrent Forces",
+      "Static and Kinetic Friction",
+      "Laws of Friction",
+      "Rolling Friction",
+      "Dynamics of Uniform Circular Motion",
+      "Centripetal Force and its Applications",
+      "Vehicle on a Level Circular Road",
+      "Vehicle on a Banked Road"
+    ]
+  },
+  {
+    "unit": "WORK, ENERGY, AND POWER",
+    "weight": "6.6%",
+    "topics": [
+      "Work done by a constant force and a variable force",
+      "Kinetic and Potential Energies",
+      "Work-Energy Theorem",
+      "Power",
+      "The potential energy of spring",
+      "Conservation of Mechanical Energy",
+      "Conservative and Non-conservative Forces",
+      "Motion in a Vertical Circle",
+      "Elastic and Inelastic Collisions in One and Two Dimensions"
+    ]
+  },
+  {
+    "unit": "ROTATIONAL MOTION",
+    "weight": "13.2%",
+    "topics": [
+      "Centre of the mass of a two-particle system",
+      "Centre of the mass of a rigid body",
+      "Basic concepts of rotational motion",
+      "Moment of a force",
+      "Torque",
+      "Angular momentum",
+      "Conservation of angular momentum and its applications",
+      "Moment of inertia",
+      "Radius of gyration",
+      "Values of moments of inertia for simple geometrical objects",
+      "Parallel and perpendicular axes theorems, and their applications",
+      "Equilibrium of rigid bodies",
+      "Rigid body rotation and equations of rotational motion",
+      "Comparison of linear and rotational motions"
+    ]
+  },
+  {
+    "unit": "GRAVITATION",
+    "weight": "3%",
+    "topics": [
+      "The universal law of gravitation",
+      "Acceleration due to gravity and its variation with altitude and depth",
+      "Kepler’s law of planetary motion",
+      "Gravitational potential energy",
+      "Gravitational potential",
+      "Escape velocity",
+      "Motion of a satellite",
+      "Orbital velocity",
+      "Time period and energy of satellite"
+    ]
+  },
+  {
+    "unit": "PROPERTIES OF SOLIDS AND LIQUIDS",
+    "weight": "3%",
+    "topics": [
+      "Elastic behaviour",
+      "Stress-strain relationship",
+      "Hooke's Law",
+      "Young's modulus",
+      "Bulk modulus",
+      "Modulus of rigidity",
+      "Pressure due to a fluid column",
+      "Pascal's law and its applications",
+      "Effect of gravity on fluid pressure",
+      "Viscosity",
+      "Stokes' law",
+      "Terminal velocity",
+      "Streamline and turbulent flow",
+      "Critical velocity",
+      "Bernoulli's principle and its applications",
+      "Surface energy and surface tension",
+      "Angle of contact",
+      "Excess of pressure across a curved surface",
+      "Application of surface tension - drops, bubbles, and capillary rise",
+      "Heat",
+      "Temperature",
+      "Thermal expansion",
+      "Specific heat capacity",
+      "Calorimetry",
+      "Change of state",
+      "Latent heat",
+      "Heat transfer - conduction, convection, and radiation"
+    ]
+  },
+  {
+    "unit": "THERMODYNAMICS",
+    "weight": "3%",
+    "topics": [
+      "Thermal equilibrium",
+      "Zeroth law of thermodynamics",
+      "Concept of temperature",
+      "Heat, work, and internal energy",
+      "First law of thermodynamics",
+      "Isothermal and adiabatic processes",
+      "Second law of thermodynamics",
+      "Reversible and irreversible processes"
+    ]
+  },
+  {
+    "unit": "KINETIC THEORY OF GASES",
+    "weight": "6.6%",
+    "topics": [
+      "Equation of state of a perfect gas",
+      "Work done on compressing a gas",
+      "Kinetic theory of gases - assumptions",
+      "Concept of pressure",
+      "Kinetic interpretation of temperature",
+      "RMS speed of gas molecules",
+      "Degrees of freedom",
+      "Law of equipartition of energy and applications to specific heat capacities of gases",
+      "Mean free path",
+      "Avogadro's number"
+    ]
+  },
+  {
+    "unit": "OSCILLATIONS AND WAVES",
+    "weight": "3.3%",
+    "topics": [
+      "Oscillations and periodic motion – time period, frequency, displacement as a function of time",
+      "Periodic functions",
+      "Simple harmonic motion (S.H.M.) and its equation",
+      "Phase",
+      "Oscillations of a spring - restoring force and force constant",
+      "Energy in S.H.M. - Kinetic and potential energies",
+      "Simple pendulum - derivation of expression for its time period",
+      "Wave motion",
+      "Longitudinal and transverse waves",
+      "Speed of the traveling wave",
+      "Displacement relation for a progressive wave",
+      "Principle of superposition of waves",
+      "Reflection of waves",
+      "Standing waves in strings and organ pipes",
+      "Fundamental mode and harmonics",
+      "Beats"
+    ]
+  },
+  {
+    "unit": "ELECTROSTATICS",
+    "weight": "3.3%",
+    "topics": [
+      "Electric charges",
+      "Conservation of charge",
+      "Coulomb's law forces between two point charges",
+      "Forces between multiple charges",
+      "Superposition principle and continuous charge distribution",
+      "Electric field",
+      "Electric field due to a point charge",
+      "Electric field lines",
+      "Electric dipole",
+      "Electric field due to a dipole",
+      "Torque on a dipole in a uniform electric field",
+      "Electric flux",
+      "Gauss's law and its applications",
+      "Field due to infinitely long uniformly charged straight wire",
+      "Uniformly charged infinite plane sheet",
+      "Uniformly charged thin spherical shell",
+      "Electric potential",
+      "Calculation for a point charge, electric dipole, and system of charges",
+      "Potential difference",
+      "Equipotential surfaces",
+      "Electrical potential energy of a system of two point charges and of electric dipole in an electrostatic field",
+      "Conductors and insulators",
+      "Dielectrics and electric polarization",
+      "Capacitors and capacitances",
+      "Combination of capacitors in series and parallel",
+      "Capacitance of a parallel plate capacitor with and without dielectric medium between the plates",
+      "Energy stored in a capacitor"
+    ]
+  },
+  {
+    "unit": "CURRENT ELECTRICITY",
+    "weight": "9.9%",
+    "topics": [
+      "Electric current",
+      "Drift velocity",
+      "Mobility, and their relation with electric current",
+      "Ohm's law",
+      "Electrical resistance",
+      "V-I characteristics of Ohmic and non-ohmic conductors",
+      "Electrical energy and power",
+      "Electrical resistivity and conductivity",
+      "Series and parallel combinations of resistors",
+      "Temperature dependence of resistance",
+      "Internal resistance, potential difference, and emf of a cell",
+      "Combination of cells in series and parallel",
+      "Kirchhoff’s laws and their applications",
+      "Wheatstone bridge",
+      "Metre Bridge"
+    ]
+  },
+  {
+    "unit": "MAGNETIC EFFECTS OF CURRENT AND MAGNETISM",
+    "weight": "6.6%",
+    "topics": [
+      "Biot-Savart law and its application to the current carrying circular loop",
+      "Ampere's law and its applications to infinitely long current carrying straight wire and solenoid",
+      "Force on a moving charge in uniform magnetic and electric fields",
+      "Force on a current-carrying conductor in a uniform magnetic field",
+      "Force between two parallel currents carrying conductors - definition of ampere",
+      "Torque experienced by a current loop in a uniform magnetic field",
+      "Moving coil galvanometer, its sensitivity, and conversion to ammeter and voltmeter",
+      "Current loop as a magnetic dipole and its magnetic dipole moment",
+      "Bar magnet as an equivalent solenoid, magnetic field lines",
+      "Magnetic field due to a magnetic dipole (bar magnet) along its axis and perpendicular to its axis",
+      "Torque on a magnetic dipole in a uniform magnetic field",
+      "Para-, dia-, and ferromagnetic substances with examples",
+      "Effect of temperature on magnetic properties"
+    ]
+  },
+  {
+    "unit": "ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENTS",
+    "weight": "6.6%",
+    "topics": [
+      "Electromagnetic induction: Faraday's law",
+      "Induced emf and current: Lenz’s Law, Eddy currents",
+      "Self and mutual inductance",
+      "Alternating currents",
+      "Peak and RMS value of alternating current/voltage",
+      "Reactance and impedance",
+      "LCR series circuit",
+      "Resonance",
+      "Power in AC circuits",
+      "Wattless current",
+      "AC generator and transformer"
+    ]
+  },
+  {
+    "unit": "ELECTROMAGNETIC WAVES",
+    "weight": "3.3%",
+    "topics": [
+      "Displacement current",
+      "Electromagnetic waves and their characteristics",
+      "Transverse nature of electromagnetic waves",
+      "Electromagnetic spectrum (radio waves, microwaves, infrared, visible, ultraviolet, X-rays, Gamma rays)",
+      "Applications of electromagnetic waves"
+    ]
+  },
+  {
+    "unit": "OPTICS",
+    "weight": "6.6%",
+    "topics": [
+      "Reflection of light",
+      "Spherical mirrors",
+      "Mirror formula",
+      "Refraction of light at plane and spherical surfaces",
+      "Thin lens formula",
+      "Lens maker formula",
+      "Total internal reflection and its applications",
+      "Magnification",
+      "Power of a lens",
+      "Combination of thin lenses in contact",
+      "Refraction of light through a prism",
+      "Microscope and Astronomical Telescope (reflecting and refracting) and their magnifying powers",
+      "Wave optics: wavefront and Huygens' principle",
+      "Laws of reflection and refraction using Huygens principle",
+      "Interference",
+      "Young's double-slit experiment",
+      "Expression for fringe width",
+      "Coherent sources",
+      "Sustained interference of light",
+      "Diffraction due to a single slit",
+      "Width of central maximum",
+      "Polarization",
+      "Plane-polarized light",
+      "Brewster's law",
+      "Uses of plane-polarized light",
+      "Polaroid"
+    ]
+  },
+  {
+    "unit": "DUAL NATURE OF MATTER AND RADIATION",
+    "weight": "3%",
+    "topics": [
+      "Dual nature of radiation",
+      "Photoelectric effect",
+      "Hertz and Lenard's observations",
+      "Einstein's photoelectric equation",
+      "Particle nature of light",
+      "Matter waves",
+      "Wave nature of particle",
+      "de Broglie relation"
+    ]
+  },
+  {
+    "unit": "ATOMS AND NUCLEI",
+    "weight": "3%",
+    "topics": [
+      "Alpha-particle scattering experiment",
+      "Rutherford's model of atom",
+      "Bohr model",
+      "Energy levels",
+      "Hydrogen spectrum",
+      "Composition and size of nucleus",
+      "Atomic masses",
+      "Mass-energy relation",
+      "Mass defect",
+      "Binding energy per nucleon and its variation with mass number",
+      "Nuclear fission and fusion"
+    ]
+  },
+  {
+    "unit": "ELECTRONIC DEVICES",
+    "weight": "3.3%",
+    "topics": [
+      "Semiconductors",
+      "Semiconductor diode",
+      "I-V characteristics in forward and reverse bias",
+      "Diode as a rectifier",
+      "I-V characteristics of LED",
+      "The photodiode",
+      "Solar cell",
+      "Zener diode",
+      "Zener diode as a voltage regulator",
+      "Logic gates (OR, AND, NOT, NAND, and NOR)"
+    ]
+  },
+  {
+    "unit": "EXPERIMENTAL SKILLS",
+    "weight": "3%",
+    "topics": [
+      "Vernier calipers - its use to measure the internal and external diameter and depth of a vessel.",
+      "Screw gauge - its use to determine the thickness/diameter of thin sheet/wire.",
+      "Simple Pendulum - dissipation of energy by plotting a graph between the square of amplitude and time.",
+      "Metre Scale - the mass of a given object by the principle of moments.",
+      "Young's modulus of elasticity of the material of a metallic wire.",
+      "Surface tension of water by capillary rise and effect of detergents.",
+      "Coefficient of Viscosity of a given viscous liquid by measuring the terminal velocity of a given spherical body.",
+      "Speed of sound in air at room temperature using a resonance tube.",
+      "Specific heat capacity of a given (i) solid and (ii) liquid by method of mixtures.",
+      "The resistivity of the material of a given wire using a metre bridge.",
+      "The resistance of a given wire using Ohm's law.",
+      "Resistance and figure of merit of a galvanometer by half deflection method.",
+      "Focal length of:",
+      "  (i) Convex mirror",
+      "  (ii) Concave mirror, and",
+      "  (iii) Convex lens, using the parallax method.",
+      "Plot of the angle of deviation vs angle of incidence for a triangular prism.",
+      "Refractive index of a glass slab using a travelling microscope.",
+      "Characteristic curves of a p-n junction diode in forward and reverse bias.",
+      "Characteristic curves of a Zener diode and finding reverse breakdown voltage.",
+      "Identification of Diode, LED, Resistor, A capacitor from a mixed collection of such items."
+    ]
+  }
+]
