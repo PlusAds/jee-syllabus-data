@@ -13,7 +13,7 @@
   },
   {
     "unit": "ATOMIC STRUCTURE",
-    "weight": "Some Weight%",
+    "weight": "6.6%",
     "topics": [
       "Nature of electromagnetic radiation",
       "Photoelectric effect",
@@ -29,7 +29,7 @@
   },
   {
     "unit": "CHEMICAL BONDING AND MOLECULAR STRUCTURE",
-    "weight": "Some Weight%",
+    "weight": "6.6%",
     "topics": [
       "Kossel-Lewis approach",
       "Ionic bonding",
@@ -42,7 +42,7 @@
   },
   {
     "unit": "CHEMICAL THERMODYNAMICS",
-    "weight": "Some Weight%",
+    "weight": "6.6%",
     "topics": [
       "Fundamentals of thermodynamics",
       "First law of thermodynamics",
@@ -65,7 +65,7 @@
   },
   {
     "unit": "EQUILIBRIUM",
-    "weight": "Some Weight%",
+    "weight": "6.6%",
     "topics": [
       "Dynamic equilibrium",
       "Equilibria involving physical processes",
@@ -76,7 +76,7 @@
   },
   {
     "unit": "REDOX REACTIONS AND ELECTROCHEMISTRY",
-    "weight": "Some Weight%",
+    "weight": "6.6%",
     "topics": [
       "Electronic concepts of oxidation and reduction",
       "Electrolytic and metallic conduction",
@@ -87,7 +87,7 @@
   },
   {
     "unit": "CHEMICAL KINETICS",
-    "weight": "Some Weight%",
+    "weight": "3.3%",
     "topics": [
       "Rate of a chemical reaction",
       "Factors affecting the rate of reactions",
