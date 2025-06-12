@@ -1,0 +1,39 @@
+[
+  {
+    "unit": "GENERAL AWARENESS",
+    "weight": "33%",
+    "topics": [
+      "General knowledge questions",
+      "Knowledge about prominent Indian and global cities",
+      "Understanding of development issues",
+      "Awareness of government programs and initiatives"
+    ]
+  },
+  {
+    "unit": "SOCIAL SCIENCES",
+    "weight": "33%",
+    "topics": [
+      "The idea of nationalism and nationalism in India",
+      "The pre-modern world and 19th-century global economy",
+      "Colonialism and colonial cities",
+      "Industrialization and its impact",
+      "Resources and development: types of resources, agriculture, water, minerals, and industries",
+      "Indian national economy and economic sectors",
+      "Human settlements and urban/rural development",
+      "Constitution of India, power-sharing, federalism, political parties, and democracy",
+      "Economic development: concept of development, poverty, globalization",
+      "Population structure, social exclusion, inequality, urbanization"
+    ]
+  },
+  {
+    "unit": "THINKING SKILLS",
+    "weight": "33%",
+    "topics": [
+      "Reading comprehension (unseen passages)",
+      "Map reading skills: scale, distance, direction, area",
+      "Critical reasoning and logical thinking",
+      "Understanding of charts, graphs, and tables",
+      "Basic concepts of statistics and data interpretation"
+    ]
+  }
+]
