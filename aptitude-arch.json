@@ -1,0 +1,28 @@
+[
+  {
+    "unit": "AWARENESS OF PERSONS AND ARCHITECTURAL ELEMENTS",
+    "weight": "50%",
+    "topics": [
+      "Awareness of buildings and architectural materials",
+      "Identification and understanding of objects and textures related to the built environment",
+      "Visualizing three-dimensional objects from two-dimensional drawings",
+      "Visualizing different sides of three-dimensional objects",
+      "Analytical reasoning",
+      "Mental ability: visual, numerical, and verbal"
+    ]
+  },
+  {
+    "unit": "THREE-DIMENSIONAL PERCEPTION AND DESIGN",
+    "weight": "50%",
+    "topics": [
+      "Understanding and appreciation of scale and proportion of objects",
+      "Understanding building forms and architectural elements",
+      "Color, texture, harmony, and contrast in visual design",
+      "Design and drawing of geometrical or abstract shapes and patterns using pencil",
+      "Transformation of forms in both 2D and 3D (union, subtraction, rotation)",
+      "Development of surfaces and volumes",
+      "Generation of plans, elevations, and 3D views of objects",
+      "Creating 2D and 3D compositions using given shapes and forms"
+    ]
+  }
+]
