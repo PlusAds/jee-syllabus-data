@@ -1,0 +1,162 @@
+[
+  {
+    "unit": "SETS, RELATIONS, AND FUNCTIONS",
+    "weight": "3.3%",
+    "topics": [
+      "Sets and their representation",
+      "Union, intersection, and complement of sets and their algebraic properties",
+      "Power set",
+      "Relations and types of relations",
+      "Functions: one-one, into and onto functions",
+      "Composition of functions"
+    ]
+  },
+  {
+    "unit": "COMPLEX NUMBERS AND QUADRATIC EQUATIONS",
+    "weight": "6.6%",
+    "topics": [
+      "Complex numbers in the form a + ib",
+      "Argand diagram",
+      "Algebra of complex numbers",
+      "Modulus and argument of a complex number",
+      "Quadratic equations in real and complex systems",
+      "Relations between roots and coefficients"
+    ]
+  },
+  {
+    "unit": "MATRICES AND DETERMINANTS",
+    "weight": "6.6%",
+    "topics": [
+      "Matrices and algebra of matrices",
+      "Types of matrices",
+      "Determinants of order 2 and 3",
+      "Evaluation of determinants",
+      "Area of triangles using determinants",
+      "Adjoint and inverse of a matrix",
+      "Solving linear equations using matrices"
+    ]
+  },
+  {
+    "unit": "PERMUTATIONS AND COMBINATIONS",
+    "weight": "3.3%",
+    "topics": [
+      "Fundamental principle of counting",
+      "Permutation P(n, r)",
+      "Combination C(n, r)",
+      "Simple applications"
+    ]
+  },
+  {
+    "unit": "BINOMIAL THEOREM AND ITS SIMPLE APPLICATIONS",
+    "weight": "3.3%",
+    "topics": [
+      "Binomial theorem for a positive integral index",
+      "General term and middle term",
+      "Simple applications of the binomial theorem"
+    ]
+  },
+  {
+    "unit": "SEQUENCE AND SERIES",
+    "weight": "3.3-6.5%",
+    "topics": [
+      "Arithmetic progression (A.P.)",
+      "Geometric progression (G.P.)",
+      "Arithmetic mean (A.M.)",
+      "Geometric mean (G.M.)",
+      "Relation between A.M. and G.M."
+    ]
+  },
+  {
+    "unit": "LIMIT, CONTINUITY, AND DIFFERENTIABILITY",
+    "weight": "10-12%",
+    "topics": [
+      "Real-valued functions and their algebra",
+      "Types of functions: polynomial, rational, trigonometric, logarithmic, exponential, inverse",
+      "Limits and continuity of functions",
+      "Differentiability and derivative rules",
+      "Second-order derivatives",
+      "Applications of derivatives: rate of change, monotonic functions, maxima and minima"
+    ]
+  },
+  {
+    "unit": "INTEGRAL CALCULUS",
+    "weight": "10-11.17%",
+    "topics": [
+      "Integral as anti-derivative",
+      "Fundamental integrals involving standard functions",
+      "Integration by substitution, parts, partial fractions",
+      "Integration using trigonometric identities",
+      "Forms like ∫(x²+a²)dx and ∫(a²±x²)dx",
+      "Fundamental theorem of calculus",
+      "Properties of definite integrals",
+      "Area under curves"
+    ]
+  },
+  {
+    "unit": "DIFFERENTIAL EQUATIONS",
+    "weight": "3.3-5.67%",
+    "topics": [
+      "Definition and basic concepts of differential equations",
+      "Order and degree of a differential equation",
+      "Solutions using separation of variables",
+      "Homogeneous and linear differential equations",
+      "Solving DEs of type dy/dx + p(x)y = q(x)"
+    ]
+  },
+  {
+    "unit": "CO-ORDINATE GEOMETRY",
+    "weight": "15.33-16.6%",
+    "topics": [
+      "Cartesian coordinate system in 2D",
+      "Distance formula and section formula",
+      "Locus and slope of a line",
+      "Different forms of equations of lines",
+      "Point of intersection and angle between lines",
+      "Centroid, orthocentre, circumcentre",
+      "Circles: standard and general form, intersection with lines",
+      "Conic sections: parabola, ellipse, hyperbola"
+    ]
+  },
+  {
+    "unit": "THREE DIMENSIONAL GEOMETRY",
+    "weight": "Included in 15.33-16.6%",
+    "topics": [
+      "3D coordinate system",
+      "Distance and section formula in space",
+      "Direction ratios and direction cosines",
+      "Angle between two lines",
+      "Equation of a line in space",
+      "Skew lines and shortest distance between lines"
+    ]
+  },
+  {
+    "unit": "VECTOR ALGEBRA",
+    "weight": "6.33-6.6%",
+    "topics": [
+      "Vectors and scalars",
+      "Vector addition and subtraction",
+      "Components of vectors in 2D and 3D",
+      "Scalar (dot) product and vector (cross) product"
+    ]
+  },
+  {
+    "unit": "STATISTICS AND PROBABILITY",
+    "weight": "6.5-6.6%",
+    "topics": [
+      "Measures of dispersion: mean, median, mode, variance, standard deviation, mean deviation",
+      "Grouped and ungrouped data analysis",
+      "Probability of events",
+      "Addition and multiplication rules of probability",
+      "Bayes’ theorem",
+      "Probability distribution of random variables"
+    ]
+  },
+  {
+    "unit": "TRIGONOMETRY",
+    "weight": "3.3-4.5%",
+    "topics": [
+      "Trigonometric identities and functions",
+      "Inverse trigonometric functions and their properties"
+    ]
+  }
+]
